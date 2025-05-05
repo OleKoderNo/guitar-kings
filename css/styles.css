@@ -1,0 +1,34 @@
+header,
+footer {
+  background-color: #202020;
+  color: #fff;
+}
+
+footer {
+    text-align: center;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+}
+
+button {
+    background-color: #bb0000;
+    color: #fff;
+    font-size: 1.5rem;
+    border: none;
+}
+
+.saleBtn {
+    background-color: #127300;
+}
+
+.reviews {
+    background-color: #e8e8e8;
+}
+
+.featuredProducts {
+    background-color: #fbfbfb;
+}
