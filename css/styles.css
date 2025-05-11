@@ -7,6 +7,23 @@ body {
     font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.landingPageHeader{
+    background-image: url("../images/home-header.jpg");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    height: fit-content;
+    height: 900px;
+    background-size: 100%
+}
+.playing-guitar-image{
+    border-radius: 100px;
+}
+
+.bio-image {
+    border-radius: 50%;
+}
+
 h1,
 h2,
 .logo {
