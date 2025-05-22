@@ -63,6 +63,13 @@ button,
     color: #fff;
     font-size: 1.5rem;
     border: none;
+    padding: 0.75rem 5rem;
+}
+
+.smallerBtn,
+.saleBtn
+ {
+    padding: 0.75 2rem;
 }
 
 .active{
